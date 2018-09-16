@@ -1,1 +1,5 @@
 use("github.com/softkitteh/repokitteh-modules/assign.sky")
+
+def on_issue_comment(comment):
+  if comment == "/error":
+    error("oh noes!")
