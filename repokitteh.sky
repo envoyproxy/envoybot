@@ -1,0 +1,3 @@
+def on_issue_comment(comment):
+  if comment == "/evil":
+    github_pr_merge()
