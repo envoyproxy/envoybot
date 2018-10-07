@@ -1,1 +1,3 @@
 use("github.com/softkitteh/repokitteh-modules/assign.sky")
+use("github.com/softkitteh/repokitteh-modules/kitteh.sky")
+use("github.com/softkitteh/repokitteh-modules/doge.sky")
