@@ -1,4 +1,4 @@
-use("github.com/softkitteh/repokitteh-modules/assign.sky")
-use("github.com/softkitteh/repokitteh-modules/review.sky")
-use("github.com/softkitteh/repokitteh-modules/kitteh.sky")
-use("github.com/softkitteh/repokitteh-modules/doge.sky")
+use("github.com/softkitteh/repokitteh-modules/assign.star")
+use("github.com/softkitteh/repokitteh-modules/review.star")
+use("github.com/softkitteh/repokitteh-modules/kitteh.star")
+use("github.com/softkitteh/repokitteh-modules/doge.star")
