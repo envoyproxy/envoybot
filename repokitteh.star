@@ -5,4 +5,4 @@ use("github.com/repokitteh/modules/doge.star")
 use("github.com/repokitteh/modules/wait.star")
 
 def on_issue_comment():
-  github_issue_create_comment('x')
+  github_issue_create_comment('y')
